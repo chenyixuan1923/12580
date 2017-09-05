@@ -1,0 +1,10 @@
+﻿  主函数.cpp
+  token.cpp
+  get_token_name.cpp
+  do_int.cpp
+  do_in.cpp
+  正在生成代码...
+i:\小学期软件实践\新一\get_token_name.cpp(181): warning C4715: “get_token_name”: 不是所有的控件路径都返回值
+i:\小学期软件实践\新一\token.cpp(240): warning C4715: “get_token”: 不是所有的控件路径都返回值
+  小学期软工社会实践项目.vcxproj -> I:\小学期软件实践\新一\Debug\小学期软工社会实践项目.exe
+  小学期软工社会实践项目.vcxproj -> I:\小学期软件实践\新一\Debug\小学期软工社会实践项目.pdb (Partial PDB)

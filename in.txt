@@ -1,0 +1,14 @@
+int a=10;
+int b=5;
+int ab = 123 ;
+int c=7;
+int e,f,g;
+real h,i,j;
+real kk=3.1415926;
+real up = 3.0 ;
+string ss;
+string ccc = "asghoau";
+out "a=",a\n;
+out b\n;
+out "Start\n";
+out c,"*\n";
